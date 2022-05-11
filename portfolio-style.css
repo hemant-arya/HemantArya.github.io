@@ -152,7 +152,7 @@ h2{
 
 
 #profile .row div{
-    margin-top: 80% !important;
+    margin-top: 70% !important;
 }
 
 #profile h1{
@@ -175,5 +175,14 @@ background-color: rgb(255, 0, 0, .3) !important;
     #achievements .row div, #skills .row div{
         background-color: rgba(0, 0, 0, 0.5);
         padding: 10px !important;        
+    }
+
+    .progress {
+        margin-left: 42% !important;
+        width: 60% !important;
+    }
+
+    #experiences .row div:first-child>span{
+float: left !important;
     }
 }
