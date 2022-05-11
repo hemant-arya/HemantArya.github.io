@@ -130,6 +130,13 @@ h2{
     margin-bottom: 20px !important;
 }
 
+@media screen and (max-width: 1284px) {
+	#skills{
+		height:105vh !important;
+	}
+	
+}
+
 @media screen and (max-width: 796px) {
     #profile, #profile .row, #achievements , #achievements .row, #education, #education .row, #skills, #skills .row, #contact, #contact .row{
         height: auto;
