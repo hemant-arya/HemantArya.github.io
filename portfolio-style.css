@@ -128,7 +128,7 @@ nav{
 }
 
 #profile, #profile .row, #achievements , #achievements .row, #education, #education .row, #skills, #skills .row, #contact, #contact .row{
-    height: 100vh;
+    height: 125vh;
 }
 
 #profile, #achievements, #skills {
@@ -143,7 +143,7 @@ h2{
 
 @media screen and (max-width: 1284px) {
 	#skills, #skills .row{
-		height:105vh !important;
+		height:125vh !important;
 	}
 	
 	 .progress {
